@@ -37,5 +37,6 @@
     </orderEntry>
     <orderEntry type="library" name="commons-dbutils-1.7" level="project" />
     <orderEntry type="library" name="commons-fileupload-1.4 (2)" level="project" />
+    <orderEntry type="library" name="jstl" level="project" />
   </component>
 </module>
